@@ -8,6 +8,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
 body {
   font-family: "Inconsolata", monospace;
   color: #0d1e2d;
@@ -24,6 +25,15 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6, .font-heading {
   font-family: "Raleway", sans-serif;
+}
+
+.image-selector {
+  list-style: none;
+  padding-left: 0rem;
+}
+
+.image-selector .image-selector-li {
+  display:inline;
 }
 
 .section {
