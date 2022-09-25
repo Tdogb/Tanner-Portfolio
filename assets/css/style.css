@@ -75,6 +75,10 @@ iframe {
   font-size:1.2rem;
 }
 
+.inactiveLink {
+   cursor: default;
+}
+
 .filters a {
   text-decoration: none;
   color: #000;
