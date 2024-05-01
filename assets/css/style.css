@@ -9,6 +9,10 @@
 # General
 --------------------------------------------------------------*/
 
+.unclickable {
+  pointer-events: none;
+}
+
 .slide_selector:hover {
   -webkit-filter: brightness(70%);
   -webkit-transition: all 0.5s ease;
